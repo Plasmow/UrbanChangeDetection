@@ -1,8 +1,8 @@
 # Urban Change Detection - Kaggle Submission
 
 ## Team Information
-**Team Name:** [Your Kaggle Team Name]  
-**Member:** Adam [Your Last Name]
+**Team Name:** MCBD
+**Member:** Adam DEBBAH - Mahdi AYADI - Zinedine HAMIMED
 
 ## Submission Contents
 
